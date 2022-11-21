@@ -1,0 +1,40 @@
+.block{
+position: absolute;
+height: 10000px;
+width: 1000px;
+background: white;
+left: 500px;
+box-shadow: 0 0px 4px black;
+border-radius: 10px;
+top: 100px;
+
+}
+
+.conteiner{
+position: absolute;
+height: 80px;
+width: 100%;
+background: red;
+box-shadow: 0 0px 4px black;
+border-radius: 10px;
+font-size: 40pt;
+}
+
+.block2{
+position: absolute;
+height: 9000px;
+width: 800px;
+font-size: 19pt;
+left: 600px;
+
+top: 200px;
+}
+.nazad{
+position: absolute;
+color: red;
+}
+.vpered{
+ position: absolute;
+left: 900px;
+
+}
